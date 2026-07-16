@@ -1,6 +1,6 @@
 # CS61C Course Materials
 
-This repository contains the course materials for [CS61C at UC Berkeley](https://cs61c.org/).
+This repository contains the course materials for [CS61C at UC Berkeley](https://cs61c.org/) (Fall 2020 Edition).
 
 - [Course Slides](assets/slides)
 
